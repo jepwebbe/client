@@ -1,0 +1,17 @@
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  ul {
+  display: flex;
+  list-style-type: none;
+  width: 30rem;
+  justify-content: space-between;
+  a {
+    text-decoration: none;
+  }
+}
+form {
+  display: flex;
+}
+}
